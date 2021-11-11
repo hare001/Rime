@@ -1,2 +1,0 @@
-# Rime
- Rime Config

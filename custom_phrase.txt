@@ -30,29 +30,22 @@ AC86U	ac	2
 AppleCare+	ac	1
 Apple ID	aid
 Apple Music	am	2
-AiMesh	am	1
 AirPods	ap	4
 Apple Pay	ap	3
 Alipay	ap	2
 Apple TV	atv
 Apple Watch	aw
 Android	az
-App Cleaner & Uninstaller	acu
 Chrome	ch	2
-Clubhouse	ch
 ClashX	cla
 Chrome  ch  100
-CleanMyMac X	cmm	1
 Command	cm	1
 Control	ct	2
 CarPlay	cp	1
-CleanShot X	cs
 DotA	dota
 Download	dl	1
 Enpass	enp
 Emoji	em
-Mimestream	mim
-Final Cut Pro	fcp
 gfwlist	gfw
 GitHub Desktop	gh	1
 GitHub	gh	2
@@ -70,10 +63,6 @@ iTunes	itunes
 iMac	imac	2
 iMac Pro	imac	1	
 Keynote	kn
-koolproxy	kpr
-koolshare	ks
-Lightning to USB-C	ltc
-Lightning to USB	ltu
 Mac	mac	2
 Mac mini	mac	1
 macOS	macos	2
@@ -94,19 +83,15 @@ openwrt	ow
 Option	ot
 Outlook	ol	2
 outlook.com	ol	1
-Parallels Desktop	pd
-Paragon NTFS	pn
 Photoshop	ps
 Paypal	pp
 Pro	pro
 QQ	qq
 Pages	pg
 readme.md	rm
-ScreenBar Plus	sbp	1
 Shadowrocket	sds	3	
 Safari	sf	2
 Shift	sf	1
-SHIELD TV	stv
 Spotify	sp	1
 Spark	sp	2
 Sublime Text	sbt

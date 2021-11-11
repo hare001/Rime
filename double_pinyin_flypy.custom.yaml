@@ -46,8 +46,6 @@ patch:
     dictionary: 
       - luna_pinyin.extended
       - luna_pinyin
-      - luna_pinyin.zonghe
-      - luna_pinyin.sogou
     preedit_format: {}
 
 

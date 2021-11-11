@@ -30,8 +30,6 @@ patch:
 #  载入朙月拼音扩充词库
   "translator/dictionary": 
     - luna_pinyin.extended
-    - luna_pinyin.sogou
-    - luna_pinyin.zonghe
     
 # 加载easy_en依赖
   "schema/dependencies/@1": easy_en

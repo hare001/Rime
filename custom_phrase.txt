@@ -47,6 +47,7 @@ Command	cm	1
 Control	ct	2
 CarPlay	cp	1
 CleanShot X	cs
+DotA	dota
 Download	dl	1
 Enpass	enp
 Emoji	em
@@ -62,9 +63,7 @@ Google Play	gp	2
 Google Voice	gv
 Gboard	gb
 Handoff	ho
-HyperSwitch	hs
 iCloud	ic
-Illustrator	ill
 iStat Menus	ism
 iWork	iw	4
 iTunes	itunes
@@ -118,6 +117,8 @@ Typora	ty
 TeamViewer  tv
 USB-C	uc
 WhatsApp	wa
+WebIDS	web
+WebShell	webs
 WeChat	wc	2
 Windows	win
 YouTube	yt

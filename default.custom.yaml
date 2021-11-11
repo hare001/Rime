@@ -20,3 +20,10 @@ patch:
   "switcher/hotkeys":
     - "Control+grave"
     - F4
+  key_binder:
+    import_preset: default
+    bindings:
+    - {accept: semicolon, send: 2, when: has_menu}
+    - {accept: slash, send: 3, when: has_menu}
+    - {accept: period, send: Page_Down, when: has_menu}
+    - {accept: comma, send: Page_Up, when: has_menu}

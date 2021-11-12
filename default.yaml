@@ -10,7 +10,6 @@ schema_list:
   - schema: bopomofo
   - schema: bopomofo_tw
   - schema: cangjie5
-  - schema: stroke
   - schema: terra_pinyin
 
 switcher:

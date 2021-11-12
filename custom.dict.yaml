@@ -1,0 +1,28 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 「Rime词库扩展计划」——为小狼毫打造一个强大好用的词库
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+# 於重新部署後生效
+
+---
+name: custom
+version: "0.0.1"
+sort: by_weight
+use_preset_vocabulary: true
+...
+回显
+高危
+高危事件
+高危漏洞
+中危
+中危事件
+中危漏洞
+低危
+低危事件
+低危漏洞
+受控
+受控事件

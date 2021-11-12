@@ -22,11 +22,10 @@ patch:
   engine/translators:
     - punct_translator
     - script_translator
-    - reverse_lookup_translator
     - "table_translator@custom_phrase"
     - table_translator
   recognizer/patterns/reverse_lookup:    # 关闭 ` 键反查功能
-  reverse_lookup:
+  reverse_lookup: {}
   punctuator:
     import_preset: symbols.custom
     half_shape:
@@ -44,6 +43,7 @@ patch:
       "<": ["《", "〈", "«", "<"]
       ">": ["》", "〉", "»", ">"]
   schema/name: 小鹤双拼
+  schema/dependencies: 
   switches:
     - name: ascii_mode
       reset: 0

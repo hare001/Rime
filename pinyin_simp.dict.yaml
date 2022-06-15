@@ -1237,7 +1237,7 @@ sort: by_weight
 普	pu	2269
 呣	m	8
 嘸	m	11
-呒	m	17
+呒	m	0
 礣	ma	0
 榪	ma	0
 溤	ma	0
@@ -1860,7 +1860,7 @@ sort: by_weight
 坶	mu	4
 仫	mu	7
 畝	mu	12
-呒	mu	17
+呒	mu	0
 苜	mu	19
 模	mu	22
 拇	mu	53
@@ -22915,7 +22915,7 @@ sort: by_weight
 到新	dao xin	116
 到站	dao zhan	137
 道长	dao zhang	183
-到帐	dao zhang	662
+到账	dao zhang	662
 到这	dao zhe	559
 倒置	dao zhi	151
 导致	dao zhi	16035
@@ -24305,7 +24305,7 @@ sort: by_weight
 泰兴	tai xing	107
 太虚	tai xu	109
 台长	tai zhang	157
-台帐	tai zhang	279
+台账	tai zhang	279
 抬着	tai zhe	129
 泰州	tai zhou	312
 台州	tai zhou	593
@@ -32812,7 +32812,6 @@ sort: by_weight
 机战	ji zhan	148
 激战	ji zhan	401
 基站	ji zhan	802
-记帐	ji zhang	127
 机长	ji zhang	138
 记账	ji zhang	426
 几张	ji zhang	2619
@@ -33995,7 +33994,6 @@ sort: by_weight
 结转	jie zhuan	212
 结扎	jie zha	136
 结账	jie zhang	179
-结帐	jie zhang	375
 借着	jie zhe	637
 接着	jie zhe	5197
 皆知	jie zhi	143
@@ -38284,7 +38282,6 @@ sort: by_weight
 转转	zhuan zhuan	875
 转债	zhuan zhai	161
 转战	zhuan zhan	289
-转帐	zhuan zhang	348
 转账	zhuan zhang	1197
 转折	zhuan zhe	485
 专政	zhuan zheng	197
@@ -38580,14 +38577,12 @@ sort: by_weight
 张明	zhang ming	234
 张某	zhang mou	438
 账目	zhang mu	168
-帐目	zhang mu	314
 章法	zhang fa	123
 张飞	zhang fei	366
 涨幅	zhang fu	2400
 丈夫	zhang fu	5044
 张大	zhang da	283
 长大	zhang da	4221
-帐单	zhang dan	163
 账单	zhang dan	654
 长到	zhang dao	193
 涨到	zhang dao	677
@@ -38624,9 +38619,7 @@ sort: by_weight
 张华	zhang hua	153
 张海	zhang hai	186
 账号	zhang hao	1065
-帐号	zhang hao	7980
 张宏	zhang hong	110
-帐户	zhang hu	2119
 账户	zhang hu	4687
 张辉	zhang hui	108
 张俊	zhang jun	150
@@ -38687,7 +38680,7 @@ sort: by_weight
 张文	zhang wen	197
 张伟	zhang wei	291
 掌握	zhang wo	8000
-帐务	zhang wu	276
+账务	zhang wu	276
 障碍	zhang ai	2773
 招办	zhao ban	250
 照搬	zhao ban	291
@@ -45277,7 +45270,7 @@ sort: by_weight
 左转	zuo zhuan	206
 坐庄	zuo zhuang	132
 作战	zuo zhan	2583
-做帐	zuo zhang	157
+做账	zuo zhang	157
 做着	zuo zhe	675
 坐着	zuo zhe	1740
 作者	zuo zhe	10681
@@ -53475,7 +53468,7 @@ sort: by_weight
 刘少奇	liu shao qi	273
 流水号	liu shui hao	105
 流水线	liu shui xian	300
-流水帐	liu shui zhang	185
+流水账	liu shui zhang	185
 刘若英	liu ruo ying	399
 六月份	liu yue fen	187
 留言板	liu yan ban	540
@@ -62797,7 +62790,7 @@ sort: by_weight
 注册登记	zhu ce deng ji	210
 注册公司	zhu ce gong si	111
 注册会员	zhu ce hui yuan	175
-注册帐号	zhu ce zhang hao	170
+注册账号	zhu ce zhang hao	170
 注册商标	zhu ce shang biao	231
 注册日期	zhu ce ri qi	136
 注册资本	zhu ce zi ben	443

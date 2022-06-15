@@ -16,98 +16,12 @@
 #
 # no comment
 
-Rime	rime	4
-鼠须管	rime	3
-https://rime.im/	rime	2
-Squirrel	rime	1
 >	dy	2
 ≥	dy	1
 <	xy	2
 ≤	xy	1
-App Store	as	2
-Apple Store	as	1
-AC86U	ac	2
-AppleCare+	ac	1
-Apple ID	aid
-Apple Music	am	2
-AirPods	ap	4
-Apple Pay	ap	3
-Alipay	ap	2
-Apple TV	atv
-Apple Watch	aw
-Android	az
-Chrome	ch	2
-ClashX	cla
-Chrome  ch  100
-Command	cm	1
-Control	ct	2
-CarPlay	cp	1
+
 DotA	dota
-Download	dl	1
-Enpass	enp
-Emoji	em
-gfwlist	gfw
-GitHub Desktop	gh	1
-GitHub	gh	2
-Gmail	gm
-Google	gg
-Google Pay	gp
-Google Play	gp	2
-Google Voice	gv
-Gboard	gb
-Handoff	ho
-iCloud	ic
-iStat Menus	ism
-iWork	iw	4
-iTunes	itunes
-iMac	imac	2
-iMac Pro	imac	1	
-Keynote	kn
-Mac	mac	2
-Mac mini	mac	1
-macOS	macos	2
-macOS BigSur	macos	1
-Markdown	md
-Microsoft	mic	2
-Microsoft Office	mic	1
-Netflix	nf	
-MacBook Pro	mbp
-MacBook Air	mba
-Messenger	ms
-㎡	pfm
-🐂️🍺️	nb	2
-Numbers	nb	1
-1Password	one	2
-OneDrive	one	1
-openwrt	ow
-Option	ot
-Outlook	ol	2
-outlook.com	ol	1
-Photoshop	ps
-Paypal	pp
-Pro	pro
-QQ	qq
-Pages	pg
-readme.md	rm
-Shadowrocket	sds	3	
-Safari	sf	2
-Shift	sf	1
-Spotify	sp	1
-Spark	sp	2
-Sublime Text	sbt
-Telegram	tg
-Twitter	tt
-Type-C	tc	
-Typora	ty
-TeamViewer  tv
-USB-C	uc
-WhatsApp	wa
-WebIDS	web
-WebShell	webs
-WeChat	wc	2
-Windows	win
-YouTube	yt
-YouTube Premium	yp
 又双叒叕	yyy
 九键	jiujian
 sys_admin	sys
@@ -115,3 +29,7 @@ sys_admin	sys
 哈哈哈哈	hhhh
 哈哈哈哈哈	hhhhh
 哈哈哈哈哈哈	hhhhhh
+冰蝎	bkxp	10
+蚁剑	yijm	10
+的    d    99999
+的    de   99999
